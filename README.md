@@ -391,6 +391,9 @@ Built with ❤️ using **React.js**.
 GitHub:
 https://github.com/hafizmahdi2010
 
+YouTube Channel:
+🎥 [Code With Mahdi](http://youtube.com/@codewithmahdi) - Tutorial and development content
+
 ---
 
 ## ⭐ Support
@@ -405,6 +408,7 @@ It helps support the project and encourages further development.
 
 * 🌐 **Live Demo:** https://convertify-0.vercel.app/
 * 💻 **GitHub:** https://github.com/hafizmahdi2010/Convertify
+* 🎥 **YouTube:** http://youtube.com/@codewithmahdi
 
 ---
 
